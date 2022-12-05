@@ -1,0 +1,40 @@
+Nama Kustomer : M. Farhan Aulia Pratama
+Total (Kg) : 24 kg
+Jenis Layanan : Cuci dan Gosok
+Kategori Paket : Kilat One Day
+Tipe Pengantaran : Antar Kerumah
+Catatan Khusus : Cepet dikit tolong
+Total Harga : Rp.293,000
+
+Nama Kustomer : Ronaldo Lionel
+Total (Kg) : 84 kg
+Jenis Layanan : Cuci Saja
+Kategori Paket : Reguler
+Tipe Pengantaran : Jemput Langsung
+Catatan Khusus : Tidak Ada
+Total Harga : Rp.422,000
+
+Nama Kustomer : Stanley Morgan
+Total (Kg) : 93 kg
+Jenis Layanan : Cuci dan Gosok
+Kategori Paket : Reguler
+Tipe Pengantaran : Antar Kerumah
+Catatan Khusus : Tidak Ada
+Total Harga : Rp.1,118,000
+
+Nama Kustomer : hulk hogan
+Total (Kg) : 254 kg
+Jenis Layanan : Cuci dan Gosok
+Kategori Paket : Kilat One Day
+Tipe Pengantaran : Antar Kerumah
+Catatan Khusus : Yang baju putih hati hati
+Total Harga : Rp.3,053,000
+
+Nama Kustomer : captain america
+Total (Kg) : 328 kg
+Jenis Layanan : Gosok Saja
+Kategori Paket : Reguler
+Tipe Pengantaran : Jemput Langsung
+Catatan Khusus : cepet ya bro
+Total Harga : Rp.3,282,000
+
